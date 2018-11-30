@@ -19,7 +19,7 @@ A one-page questionnaire to help your organization establish effective design sy
 **What will happen if this initiative fails?**
 
 ## People
-**Who needs convinced?** Which departments or people in your organization need convinced that establishing a design system is a good idea? 
+**Who needs to be convinced?** Which departments or people in your organization need to be convinced that establishing a design system is a good idea? 
 
 **Who's doing the convincing?** Who is involved at convincing stakeholders, management, securing funding, etc?
 
